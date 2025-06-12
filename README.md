@@ -10,11 +10,12 @@
 - 🧠 2 CPU cores minimum / 1vcpu [VPS]
 - 🧠 4 GB RAM or more/ 1GB [VPS]
 
+> *If you need help in creating vps, head over to [GCP-VPS-GUIDE](https://github.com/rdkrr731/GCP-VPS-Setup.git)*
+
 ✅ **Skills & Tools**
 - 🖥️ Ubuntu-based Linux system
 - 🧰 Docker + Docker Compose installed
 - 🧠 Basic terminal knowledge
-- 🌐 Open Ports if you're behind a NAT (e.g., home WiFi)
 
 ---
 
