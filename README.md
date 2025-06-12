@@ -18,6 +18,11 @@
 
 ---
 
+# ✅ Important Tip: 👇
+> **If you're running 🛠️[Aztec-Sequencer-Node](https://github.com/rdkrr731/Aztec-Sequencer-Node.git)🛠️, Continue from **( Step 5: Bring in the Blockcast Blueprint )****
+
+---
+
 ## 🧼 Step 1: Prep Your System Like a Chef
 
 Update and install some essential ingredients:
