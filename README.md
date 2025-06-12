@@ -7,8 +7,8 @@
 ## 📋 What You Need Before We Begin:
 
 ✅ **System Requirements**
-- 🧠 2 CPU cores minimum  
-- 🧠 4 GB RAM or more
+- 🧠 2 CPU cores minimum / 1vcpu [VPS]
+- 🧠 4 GB RAM or more/ 1GB [VPS]
 
 ✅ **Skills & Tools**
 - 🖥️ Ubuntu-based Linux system
